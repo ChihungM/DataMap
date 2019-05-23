@@ -1,0 +1,10 @@
+52.579557, -0.251494, Esso, Bourges Boulevard, Peterborough PE1 2AF, United Kingdom
+52.587964, -0.2147645, Sainsburys, Frank Perkins Parkway, Peterborough PE1 5LT, United Kingdom
+52.6014121, -0.2669187, Morrison's Petrol Station, Lincoln Road, Peterborough PE4 6AR, United Kingdom
+52.5742569, -0.2359485, BP, St. John's Street, Peterborough PE1 1FJ, United Kingdom
+52.5869819, -0.2247476, Eastfield Road, Peterborough PE1 4AX, United Kingdom
+52.6116756, -0.276418, Woodgrange Service Station, Lincoln Road, Peterborough PE4 6LE, United Kingdom
+52.5608726, -0.1443699, Londis, Peterborough Road, Fenland PE7 1NJ, United Kingdom
+52.5885782, -0.2852061, BP Connect Bretton, Rightwell East, Peterborough PE3 8DJ, United Kingdom
+52.5449613, -0.3054744, Orton Filling Station, Ortongate Shopping Centre, Paxton Road, Peterborough PE2 5LD, United Kingdom
+52.582252, -0.2639769, Shell, Atherstone Avenue, Peterborough PE3 9TX, United Kingdom
